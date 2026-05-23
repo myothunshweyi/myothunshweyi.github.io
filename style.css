@@ -713,6 +713,7 @@ textarea {
   box-sizing: border-box; /* Padding ကြောင့် width မကျော်သွားအောင် ထိန်းပေးသည် */
   margin: 0;
   padding: 20px;
+  background-image: url(assets/texture.png);
 }
 
 /* အတွင်းက ပစ္စည်းများအတွက် Style များ */
