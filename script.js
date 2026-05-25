@@ -390,7 +390,7 @@ function toMyanmarNumber(num) {
 }
 
 function updateLoveCounter() {
-  const startDate = new Date("2023-10-04"); // ကိုကိုတို့ စတင်ခဲ့တဲ့ရက်စွဲ
+  const startDate = new Date("2023-08-30"); // ကိုကိုတို့ စတင်ခဲ့တဲ့ရက်စွဲ
   const now = new Date();
 
   let years = now.getFullYear() - startDate.getFullYear();
